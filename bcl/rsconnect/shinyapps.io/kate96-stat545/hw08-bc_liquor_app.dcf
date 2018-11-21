@@ -1,0 +1,12 @@
+name: hw08-bc_liquor_app
+title: hw08-bc_liquor_app
+username:
+account: kate96-stat545
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 583057
+bundleId: 1712382
+url: https://kate96-stat545.shinyapps.io/hw08-bc_liquor_app/
+when: 1542780016.27345
+asMultiple: FALSE
+asStatic: FALSE
